@@ -1,4 +1,4 @@
-Counter App
+Gif Expert App
 ===========
 - Este proyecto se realizó siguiendo el curso [React: De cero a experto ( Hooks y MERN )](https://www.udemy.com/course/react-cero-experto/ "React: De cero a experto ( Hooks y MERN )") 
 > En este proyecto se usó React
